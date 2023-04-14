@@ -21,7 +21,7 @@ export default function App() {
           source={{uri: 'https://madeinbrazil.fbitsstatic.net/img/p/guitarra-fender-stratocaster-american-professional-ii-burst-fender-sunburst-3-color-sunburst-70-129352/342413.jpg?w=800&h=800&v=no-change&qs=ignore'}}
           style={styles.imagem}
         />
-        <br/>
+        
           <Text style={styles.conteudo}> Valor: R$ 10.000,00 </Text>
           <Text style={styles.conteudo}> Modelo: Stratocaster. </Text>
         
@@ -32,7 +32,7 @@ export default function App() {
           source={{uri: 'https://www.cmkvirtual.com.br/storage/images/cache/contrabaixo-tagima-tbm-5-special-1-1599675230-1200-1cc16245.jpg'}}
           style={styles.imagem}
         />
-        <br/>
+        
           <Text style={styles.conteudo}> Valor: R$ 2.000,00 </Text>
           <Text style={styles.conteudo}> Modelo: Musicman. </Text>
           
@@ -43,7 +43,7 @@ export default function App() {
           source={{uri: 'https://fujisom.com.br/uploads/produto_fotos/20210727145056_crafterhd100cefrente.png'}}
           style={styles.imagem}
         />
-        <br/>
+        
           <Text style={styles.conteudo}> Valor: R$ 1.200,00 </Text>
           <Text style={styles.conteudo}> Modelo: Tradicional. </Text>
           
